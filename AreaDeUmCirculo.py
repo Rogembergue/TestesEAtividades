@@ -5,4 +5,4 @@ print("***********************************", "\n")
 raio = input("Digite o raio do círculo:")
 r = float(raio)
 resultado = 3.14*r**2
-print("A área do círclo é:", resultado)
+print("A área do círculo é:", resultado)
