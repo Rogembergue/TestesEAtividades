@@ -1,5 +1,5 @@
 print("***********************************")
-print("Essa é a tal atividade que é melhor que God of War 4")
+print("Sua Média :D")
 print("***********************************", "\n")
 
 print("Alo mundo", "\n")
